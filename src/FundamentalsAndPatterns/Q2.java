@@ -12,22 +12,22 @@ public class Q2 {
         int n = obj.nextInt();
         ArrayList<Integer> list = new ArrayList<>();
         //taking n inputs on the list
-        while (n>0){
+        while (n > 0) {
             list.add(obj.nextInt());
             n--;
         }
         //calling function for n inputs
-        for (int num:list){
+        for (int num : list) {
             BinToDec(num);
         }
     }
 
-    public static void BinToDec(int n){
-        int dec=0;
+    public static void BinToDec(int n) {
+        int dec = 0;
         int p = 0;
-        while (n>0){
-            dec =dec + (n%10)*(int)Math.pow(2,p);
-            n/=10;
+        while (n > 0) {
+            dec = dec + (n % 10) * (int) Math.pow(2, p);
+            n /= 10;
             p++;
         }
         System.out.println(dec);
