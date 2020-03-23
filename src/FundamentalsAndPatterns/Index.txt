@@ -2,3 +2,4 @@ Q1: Manmohan Loves Patterns-II
 Q2: Von Neuman Loves Binary
 Q3: Simple Input
 Q4: Hollow Rhombus Pattern
+Q5: Manmohan Loves Patterns-I
