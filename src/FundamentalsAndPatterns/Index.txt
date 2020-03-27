@@ -9,3 +9,4 @@ Q8: Prateek Loves Candy -- not done
 Q9: Print Reverse
 Q10: Help Ramu -- not done
 Q11: Pattern With Zeroes
+Q12: Hollow Diamond Pattern
