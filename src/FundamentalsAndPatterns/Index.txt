@@ -10,3 +10,4 @@ Q9: Print Reverse
 Q10: Help Ramu -- not done
 Q11: Pattern With Zeroes
 Q12: Hollow Diamond Pattern
+Q13: Check Prime
