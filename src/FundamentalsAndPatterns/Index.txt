@@ -16,3 +16,4 @@ Q15: Fibonacii Pattern
 Q16: Pattern Mountain
 Q17: Decimal to Octal
 Q18: Count Digits
+Q19: Is Armstrong Number
