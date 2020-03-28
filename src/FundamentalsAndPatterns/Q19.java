@@ -1,3 +1,5 @@
+package FundamentalsAndPatterns;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
