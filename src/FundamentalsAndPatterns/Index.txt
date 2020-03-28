@@ -14,3 +14,4 @@ Q13: Check Prime
 Q14: Pattern Triangle
 Q15: Fibonacii Pattern
 Q16: Pattern Mountain
+Q17: Decimal to Octal
