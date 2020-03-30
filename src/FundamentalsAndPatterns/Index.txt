@@ -18,3 +18,4 @@ Q17: Decimal to Octal
 Q18: Count Digits
 Q19: Is Armstrong Number
 Q20: Binary to Decimal
+Q21: Conversion F to C
