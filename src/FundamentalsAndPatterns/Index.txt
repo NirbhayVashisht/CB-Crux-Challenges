@@ -26,3 +26,4 @@ Q25: Pattern Number and Stars - 2
 Q26: Ganesha's Pattern -- not done
 Q27: Pattern Number and Stars - 1
 Q28: Pythagoras Triplet *
+Q29: Pattern HourGlass
