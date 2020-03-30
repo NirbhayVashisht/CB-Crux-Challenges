@@ -22,3 +22,4 @@ Q21: Conversion F to C
 Q22: Pascal Triangle *
 Q23: Increasing Decreasing Sequence
 Q24: Basic Calculator
+Q25: Pattern Number and Stars - 2
