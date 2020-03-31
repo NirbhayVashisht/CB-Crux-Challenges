@@ -28,3 +28,4 @@ Q27: Pattern Number and Stars - 1
 Q28: Pythagoras Triplet *
 Q29: Pattern HourGlass
 Q30: Pattern Inverted Hourglass
+Q31: Pattern DoubleSidedArrow
